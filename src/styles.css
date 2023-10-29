@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.author {
+  text-align: left;
+}
+
+.article {
+  margin: 40px;
+  padding: 20px;
+  border: black;
+  border-style: solid;
+}
